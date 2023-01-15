@@ -1,0 +1,8 @@
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\bin\Debug\AuditingManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\bin\Debug\AuditingManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.AuditEventFile.resources
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.csproj.GenerateResource.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.csproj.CoreCompileInputs.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\AuditingManager\obj\Debug\AuditingManager.csprojAssemblyReference.cache

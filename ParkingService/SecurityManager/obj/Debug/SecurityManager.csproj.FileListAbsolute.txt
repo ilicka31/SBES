@@ -1,0 +1,11 @@
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\bin\Debug\SecurityManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\bin\Debug\SecurityManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\bin\Debug\AuditingManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\bin\Debug\AuditingManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.csprojAssemblyReference.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.RolesConfigFile.resources
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.csproj.GenerateResource.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.csproj.CoreCompileInputs.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.csproj.CopyComplete
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\SecurityManager\obj\Debug\SecurityManager.pdb

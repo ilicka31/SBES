@@ -1,0 +1,14 @@
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\Repository.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\Repository.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\ServiceContracts.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\SecurityManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\AuditingManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\ServiceContracts.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\ServiceContracts.dll.config
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\SecurityManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\bin\Debug\AuditingManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\obj\Debug\Repository.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\Repository\obj\Debug\Repository.pdb

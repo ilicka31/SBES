@@ -1,0 +1,11 @@
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\CryptographyManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\CryptographyManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\SecurityManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\AuditingManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\SecurityManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\bin\Debug\AuditingManager.pdb
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\obj\Debug\CryptographyManager.csprojAssemblyReference.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\obj\Debug\CryptographyManager.csproj.CoreCompileInputs.cache
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\obj\Debug\CryptographyManager.csproj.CopyComplete
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\obj\Debug\CryptographyManager.dll
+C:\Users\Milic\Desktop\ProjekatSbes\SBES\ParkingService\CryptographyManager\obj\Debug\CryptographyManager.pdb

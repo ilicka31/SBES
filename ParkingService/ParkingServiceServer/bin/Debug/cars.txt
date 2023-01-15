@@ -1,0 +1,5 @@
+reg3,violet,passat,Ima
+reg4,black,fiat,Nema
+reg5,red,peglica,Nema
+reg2,green,pezo,Nema
+reg1,blue,fica,Ima
